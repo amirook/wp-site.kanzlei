@@ -1,0 +1,228 @@
+.is-style-ziri-button-3 .wp-element-button {
+    background-color: transparent !important;
+    border: 1px solid var(--wp--preset--color--primary) !important;
+    color: var(--wp--preset--color--primary) !important;
+    box-shadow: none !important;
+}
+
+.is-style-ziri-button-3 .wp-element-button:hover {
+    background-color: var(--wp--preset--color--primary) !important;
+    border-color: var(--wp--preset--color--primary) !important;
+    color: var(--wp--preset--color--white) !important;
+    box-shadow: none !important;
+}
+
+.is-style-ziri-button-4 .wp-block-button__link{
+    background-color: transparent !important;
+    color: var(--wp--preset--color--heading) !important;
+    border: 1px solid var(--wp--preset--color--primary) !important;
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-left: 0 !important;
+    border-radius: 0 !important;
+    font-weight: 500;
+    box-shadow: none !important;
+    padding: 0px;
+}
+
+.is-style-ziri-button-4 .wp-block-button__link:hover{
+    background-color: transparent !important;
+    color: var(--wp--preset--color--primary) !important;
+    border-bottom: 1px solid var(--wp--preset--color--primary) !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0px !important;
+}
+
+.is-style-outline .wp-element-button{
+    background-color: var(--wp--preset--color--white) !important;
+    border: 1px solid var(--wp--preset--color--white) !important;
+    color: var(--wp--preset--color--primary) !important;
+    transition: all .2s ease-in-out;
+}
+
+.is-style-outline .wp-element-button:hover{
+    background-color: transparent !important;
+    color: var(--wp--preset--color--white) !important;
+}
+
+.is-style-ziri-button-1 .wp-element-button:hover{
+    background-color: transparent !important;
+    box-shadow: none !important;
+    color: var(--wp--preset--color--heading) !important;
+    border: 1px solid var(--wp--preset--color--primary) !important;
+    transition: all .2s ease-in-out;
+}
+
+.wp-block-post-excerpt.is-style-show-two-lines>p {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin: 0;
+}
+
+.wp-block-post-excerpt.is-style-show-two-lines .wp-block-post-excerpt__more-text {
+    margin-top: 24px;
+}
+
+.is-style-search-404 {
+    position: relative;
+    margin-top: -32px;
+}
+
+.is-style-quote-testimonial{
+    position: relative;
+    margin-bottom: -24px;
+    z-index: 1;
+}
+
+:is(.wp-block-post-date,.wp-block-post-author,.taxonomy-category)+div {
+    padding-left: 13px!important;
+}
+
+:is(.wp-block-post-date,.wp-block-post-author,.taxonomy-category) {
+    position: relative;
+}
+
+:is(.wp-block-post-date,.wp-block-post-author,.taxonomy-category)+div::before {
+    content: '';
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    background-color: var(--wp--preset--color--heading);
+    opacity: 0.2;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+}
+
+.wp-block-categories-list li::marker{
+    content: none;
+}
+
+.wp-block-categories-list{
+    padding: 0;
+}
+
+button[type="submit"]:not(.wp-block-search__button) {
+    background: var(--wp--preset--color--primary) !important;
+    border: 1px solid var(--wp--preset--color--primary) !important;
+    color: var(--wp--preset--color--white) !important;
+    border-radius: 100px !important;
+    font-size: 18px !important;
+    line-height: 1.56 !important;
+    padding: 16px 32px !important;
+}
+
+button[type="submit"]:hover {
+    background: transparent !important;
+    color: var(--wp--preset--color--primary) !important;
+}
+
+/*---- utility class ------ */
+.is-style-on-hover:hover * {
+    color: var(--wp--preset--color--primary) !important;
+}
+
+.author .wp-block-post-author__avatar{
+    margin-right: 16px;
+}
+
+.author .wp-block-post-author__avatar img{
+    border-radius: 100px;
+}
+
+.author .wp-block-post-author{
+    justify-content: center;
+}
+
+.author .wp-block-post-author__content{
+    flex-grow: unset;
+}
+
+.single.single-post .is-style-large-font .wp-block-post-author__name {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.375;
+    margin-bottom: 7px;
+}
+
+.single.single-post .is-style-small-font .wp-block-post-author__name {
+    font-size: 16px;
+    line-height: 1.75;
+}
+
+.single.single-post .comment-form .form-submit.wp-block-button::after {
+    background-color: #fff;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-left: 0.556rem;
+    content: "";
+    vertical-align: middle;
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    transform: translateY(-50%);
+    transition: all 0.3s ease-in-out;
+}
+
+.single.single-post .comment-form .form-submit.wp-block-button {
+    position: relative;
+    background-color: var(--wp--preset--color--primary);
+    border-radius: 12px;
+    border: 1px solid var(--wp--preset--color--primary);
+    transition: all 0.3s ease-in-out;
+}
+
+.single.single-post .comment-form .form-submit.wp-block-button:hover::after {
+    background-color: var(--wp--preset--color--primary);
+}
+
+.single.single-post .comment-form .form-submit.wp-block-button:hover {
+    background-color: transparent;
+}
+
+.single.single-post .comment-form .form-submit.wp-block-button:hover>.wp-block-button__link.wp-element-button {
+    color: var(--wp--preset--color--primary);
+}
+
+.single.single-post .comment-form .wp-block-button__link.wp-element-button {
+    width: 100%;
+    background-color: transparent;
+}
+
+.wp-block-quote{
+    border-left: 4px solid var(--wp--preset--color--primary);
+}
+.wp-block-quote p{
+    font-size: var(--wp--preset--font-size--medium-large);
+    font-weight: 600;
+    font-style: italic;
+    color: var(--wp--preset--color--heading);
+}
+
+.wp-block-quote p::before {
+    background: var(--wp--preset--color--heading);
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M45.3333 29.3333C43.2237 29.3333 41.1614 28.7077 39.4073 27.5357C37.6531 26.3636 36.286 24.6977 35.4786 22.7486C34.6713 20.7996 34.4601 18.6548 34.8716 16.5857C35.2832 14.5166 36.2991 12.616 37.7909 11.1242C39.2826 9.63244 41.1832 8.61654 43.2524 8.20496C45.3215 7.79339 47.4662 8.00462 49.4153 8.81196C51.3644 9.61929 53.0303 10.9865 54.2023 12.7406C55.3744 14.4947 56 16.557 56 18.6667C56 22.5947 52.4453 35.04 45.3333 56H40L45.3333 29.3333ZM18.6667 29.3333C16.557 29.3333 14.4947 28.7077 12.7406 27.5357C10.9865 26.3636 9.61929 24.6977 8.81196 22.7486C8.00462 20.7996 7.79339 18.6548 8.20496 16.5857C8.61654 14.5166 9.63244 12.616 11.1242 11.1242C12.616 9.63244 14.5166 8.61654 16.5857 8.20496C18.6548 7.79339 20.7996 8.00462 22.7486 8.81196C24.6977 9.61929 26.3636 10.9865 27.5357 12.7406C28.7077 14.4947 29.3333 16.557 29.3333 18.6667C29.3333 22.5947 25.7787 35.04 18.6667 56H13.3333L18.6667 29.3333Z' fill='%23212728'/%3E%3C/svg%3E%0A");
+    mask-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M45.3333 29.3333C43.2237 29.3333 41.1614 28.7077 39.4073 27.5357C37.6531 26.3636 36.286 24.6977 35.4786 22.7486C34.6713 20.7996 34.4601 18.6548 34.8716 16.5857C35.2832 14.5166 36.2991 12.616 37.7909 11.1242C39.2826 9.63244 41.1832 8.61654 43.2524 8.20496C45.3215 7.79339 47.4662 8.00462 49.4153 8.81196C51.3644 9.61929 53.0303 10.9865 54.2023 12.7406C55.3744 14.4947 56 16.557 56 18.6667C56 22.5947 52.4453 35.04 45.3333 56H40L45.3333 29.3333ZM18.6667 29.3333C16.557 29.3333 14.4947 28.7077 12.7406 27.5357C10.9865 26.3636 9.61929 24.6977 8.81196 22.7486C8.00462 20.7996 7.79339 18.6548 8.20496 16.5857C8.61654 14.5166 9.63244 12.616 11.1242 11.1242C12.616 9.63244 14.5166 8.61654 16.5857 8.20496C18.6548 7.79339 20.7996 8.00462 22.7486 8.81196C24.6977 9.61929 26.3636 10.9865 27.5357 12.7406C28.7077 14.4947 29.3333 16.557 29.3333 18.6667C29.3333 22.5947 25.7787 35.04 18.6667 56H13.3333L18.6667 29.3333Z' fill='%23212728'/%3E%3C/svg%3E%0A");
+    width: 60px;
+    height: 60px;
+    padding-right: 10px;
+    content: "";
+    float: left;
+    transition: all 0.3s ease-in-out;
+}
+
+footer .wp-block-paragraph  a{
+    color: var(--wp--preset--color--white);
+    text-decoration: underline;
+}
+
+footer .wp-block-paragraph  a:hover{
+    color: var(--wp--preset--color--primary-accent);
+}

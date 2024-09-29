@@ -1,0 +1,93 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Green Color",
+    "settings": {
+        "color": {
+			"palette": [
+				{
+					"color": "#30c965",
+					"name": "Primary Color",
+					"slug": "primary"
+				},
+				{
+					"color": "#30c933",
+					"name": "Secondary Color",
+					"slug": "secondary"
+				},
+				{
+					"color": "#545454",
+					"name": "Text Color",
+					"slug": "base"
+				},
+				{
+					"color": "#000000",
+					"name": "Heading Color",
+					"slug": "heading"
+				},
+				{
+					"color": "#eefbf3",
+					"name": "Accent Color One",
+					"slug": "primary-accent"
+				},
+				{
+					"color": "#c8f1d7",
+					"name": "Accent Color Two",
+					"slug": "accent-color-two"
+				},
+				{
+					"color": "48,201,101",
+					"name": "Box Shadow Color",
+					"slug": "box-shadow-color"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Background Color",
+					"slug": "background"
+				},
+				{
+					"color": "currentColor",
+					"name": "Current Color",
+					"slug": "currentColor"
+				},
+				{
+					"color": "inherit",
+					"name": "Inherit",
+					"slug": "inherit"
+				},
+				{
+					"color": "transparent",
+					"name": "Transparent",
+					"slug": "transparent"
+				}
+			],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(165deg, #ecf9d6 0%, #cff5ff 100%)",
+					"name": "Primary Gradients",
+					"slug": "primary-gradients"
+				},
+				{
+					"slug": "cta-section",
+					"gradient": "linear-gradient(270deg, #04c3f3 0%, #52d83e 100%)",
+					"name": "Cta Section"
+				},
+				{
+					"slug": "banner-section",
+					"gradient": "linear-gradient(165deg, #ecf9d6 0%, #cff5ff 100%)",
+					"name": "Banner Section"
+				}
+			],
+			"duotone": [
+				{
+					"colors": [
+						"#30c965",
+						"#30c965"
+					],
+					"name": "Primary Color",
+					"slug": "primary-color-duotone"
+				}
+			]
+		}
+    }
+}

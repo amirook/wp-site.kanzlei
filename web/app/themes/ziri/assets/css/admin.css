@@ -1,0 +1,66 @@
+/* install notification */
+
+.ziri-install-notification {
+    display: flex;
+    font-size: 18px;
+    color: #505556;
+    gap: 60px;
+    font-size: 16px;
+    line-height: 1.625;
+}
+
+.ziri-install-notification .text {
+    padding: 70px 0 70px 17px;
+}
+
+.ziri-install-notification .text .ziri-notification-title {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.3;
+    padding: 0;
+    margin: 0 0 16px;
+}
+
+.ziri-install-notification .text .ziri-notification-desc {
+    font-size: 16px;
+    line-height: 1.625;
+    padding: 0;
+    margin: 0 0 32px;
+}
+
+.ziri-btn {
+    background: #236BFE;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid #236BFE;
+    transition: 0.234s ease-in-out;
+}
+
+.ziri-btn:hover,
+.ziri-btn:focus,
+.btn-secondary {
+    background: transparent;
+    color: #212728;
+}
+
+.btn-secondary:focus,
+.btn-secondary:hover {
+    background: #236BFE;
+    color: #fff;
+}
+
+.ziri-install-notification .links {
+    display: flex;
+    gap: 16px;
+}
+
+.ziri-install-notification .image {
+    margin-top: 32px;
+}
+
+.ziri-install-notification .image img {
+    display: block;
+}

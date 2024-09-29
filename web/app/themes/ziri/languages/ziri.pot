@@ -1,0 +1,1599 @@
+# Copyright (C) 2024 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ziri 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/ziri\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-12T09:51:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: ziri\n"
+
+#. Theme Name of the theme
+#: inc/custom-functions.php:474
+#: inc/custom-functions.php:475
+msgid "Ziri"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/ziri/"
+msgstr ""
+
+#. Description of the theme
+msgid "Ziri is a core web vitals optimized Full Site Editing (FSE) WordPress theme. It is lightning-fast and gives unparalleled speed. Ziri is perfect for creating websites such as corporate, marketing agencies, startups, life coaches, spas, portfolios, law firms, etc. It has twenty pre-defined Block patterns. You can use these patterns to create and customize your website easily. Ziri is mobile-friendly, SEO-optimized and supports RTL. It is compatible with WooCommerce to create an online store. Plus, it is translation-ready to translate the website into your local language. Learn more about the Ziri theme at https://rarathemes.com/wordpress-themes/ziri/. Check the demo at https://rarathemes.com/previews/?theme=ziri, documentation at https://docs.rarathemes.com/docs/ziri/, and get support at https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: inc/ajax-functions.php:49
+msgid "Security Error, Please reload the page."
+msgstr ""
+
+#: inc/ajax-functions.php:52
+msgid "Security Error, Need higher Permissions to install plugin."
+msgstr ""
+
+#: inc/ajax-functions.php:109
+msgid "Error, plugin could not be installed, please install manually."
+msgstr ""
+
+#: inc/class-admin-notices.php:43
+msgid "Start with Ready-Made Templates"
+msgstr ""
+
+#: inc/class-admin-notices.php:44
+msgid "Ziri is a feature-rich Full Site Editing (FSE) theme with lots of pre-built patterns and templates for beautiful a professional website using Gutenberg Editor."
+msgstr ""
+
+#: inc/class-admin-notices.php:46
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/class-admin-notices.php:47
+msgid "Learn More"
+msgstr ""
+
+#: inc/class-admin-notices.php:52
+msgid "Banner Image"
+msgstr ""
+
+#: inc/custom-functions.php:14
+msgid "Button BG Primary"
+msgstr ""
+
+#: inc/custom-functions.php:22
+msgid "Button Outline"
+msgstr ""
+
+#: inc/custom-functions.php:30
+msgid "Button Style no Background"
+msgstr ""
+
+#: inc/custom-functions.php:38
+msgid "Small Image"
+msgstr ""
+
+#: inc/custom-functions.php:45
+msgid "Small Font"
+msgstr ""
+
+#: inc/custom-functions.php:52
+msgid "Large Font"
+msgstr ""
+
+#: inc/custom-functions.php:59
+msgid "Show two lines"
+msgstr ""
+
+#: inc/custom-functions.php:66
+msgid "Show three lines"
+msgstr ""
+
+#: inc/custom-functions.php:74
+msgid "Box Shadow One"
+msgstr ""
+
+#: inc/custom-functions.php:82
+msgid "Box Shadow Two"
+msgstr ""
+
+#: inc/custom-functions.php:90
+msgid "Service Bg Color"
+msgstr ""
+
+#: inc/custom-functions.php:98
+#: inc/custom-functions.php:178
+#: inc/custom-functions.php:186
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/custom-functions.php:106
+msgid "Slide Up Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:114
+msgid "Slide Down Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:122
+msgid "Slide Left Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:130
+msgid "Slide Right Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:138
+msgid "Style for 404 Search"
+msgstr ""
+
+#: inc/custom-functions.php:146
+msgid "Testimonials Blocquote"
+msgstr ""
+
+#: inc/custom-functions.php:154
+msgid "Team Detail"
+msgstr ""
+
+#: inc/custom-functions.php:162
+msgid "Expert Image"
+msgstr ""
+
+#: inc/custom-functions.php:170
+msgid "Testimonials Image"
+msgstr ""
+
+#: inc/custom-functions.php:194
+msgid "Mob 2 Col"
+msgstr ""
+
+#: inc/custom-functions.php:202
+msgid "Mob 3 Col"
+msgstr ""
+
+#: inc/custom-functions.php:210
+#: inc/custom-functions.php:234
+#: inc/custom-functions.php:250
+msgid "Mobile Justify Right"
+msgstr ""
+
+#: inc/custom-functions.php:218
+#: inc/custom-functions.php:242
+#: inc/custom-functions.php:257
+msgid "Mobile Justify Left"
+msgstr ""
+
+#: inc/custom-functions.php:226
+msgid "Hide in Mobile"
+msgstr ""
+
+#: inc/custom-functions.php:265
+msgid "Unstyled view"
+msgstr ""
+
+#: inc/custom-functions.php:273
+msgid "Square Shape"
+msgstr ""
+
+#: inc/custom-functions.php:281
+msgid "With Background Color"
+msgstr ""
+
+#: inc/custom-functions.php:289
+msgid "Mob Gap-20px"
+msgstr ""
+
+#: inc/custom-functions.php:297
+msgid "Mob Gap-30px"
+msgstr ""
+
+#: inc/custom-functions.php:305
+msgid "Mob Gap-40px"
+msgstr ""
+
+#: inc/custom-functions.php:313
+msgid "Mob Gap-50px"
+msgstr ""
+
+#: inc/custom-functions.php:321
+msgid "ClipIn Animation"
+msgstr ""
+
+#: inc/custom-functions.php:420
+msgid "Browse Ziri Starter Templates"
+msgstr ""
+
+#: inc/custom-functions.php:424
+msgid "Install Ziri Starter Templates"
+msgstr ""
+
+#: inc/custom-functions.php:427
+msgid "Activate Ziri Starter Templates"
+msgstr ""
+
+#: inc/patterns/about/about-banner.php:9
+msgid "About Banner"
+msgstr ""
+
+#: inc/patterns/about/about-banner.php:24
+#: inc/patterns/frontpage/who-are-we.php:24
+msgid "ABOUT US"
+msgstr ""
+
+#: inc/patterns/about/about-banner.php:34
+msgid "Business Transformation Pioneers Since 2015"
+msgstr ""
+
+#: inc/patterns/about/about-banner.php:40
+msgid "Step into our world, established in 2015, championing business success through tailored strategies and solutions. Uncover how our expert team partners with you for unmatched growth and performance."
+msgstr ""
+
+#: inc/patterns/about/about-client.php:9
+msgid "About Client"
+msgstr ""
+
+#: inc/patterns/about/about-client.php:19
+msgid "We empowers clients to showcase their unique brand identity and captivate their audience with a visually striking and highly functional website."
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:9
+msgid "Service With Two Rows"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:20
+msgid "Empowering Your Business: Core Strength"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:24
+msgid "Transforming challenges into opportunities."
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:40
+msgid "Tailored Solutions"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:44
+msgid "Our customized strategies ensure your unique business needs are comprehensively addressed."
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:56
+msgid "Expertise and Experience"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:60
+msgid "Leverage the wealth of knowledge from our seasoned industry experts for maximum results."
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:72
+msgid "Innovation-Driven"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:76
+msgid "Stay competitive with our forward-thinking and innovative business strategies."
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:94
+#: inc/patterns/frontpage/features.php:134
+msgid "Partnership Approach"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:98
+msgid "Enjoy a symbiotic relationship where your success works is our primary objective."
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:110
+msgid "Proven Success"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:114
+msgid "Trust in our track record of consistently delivering successful outcomes for our clients."
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:126
+msgid "Full-Spectrum Services"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:130
+msgid "Benefit from our all-encompassing range of services, catering to every facet of your business."
+msgstr ""
+
+#: inc/patterns/block-patterns.php:14
+msgid "Ziri FSE Patterns"
+msgstr ""
+
+#: inc/patterns/block-patterns.php:15
+msgid "Patterns for sections and components"
+msgstr ""
+
+#: inc/patterns/block-patterns.php:20
+msgid "Ziri FSE Pages"
+msgstr ""
+
+#: inc/patterns/block-patterns.php:21
+msgid "Full Page layouts that can be used as templates"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:10
+msgid "Contact Map"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:21
+msgid "We'd love to hear from you"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:25
+msgid "We have offices and teams all around the world."
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:48
+#: inc/patterns/templates/contact.php:77
+msgid "California"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:52
+msgid "Our friendly team is here to help."
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:64
+msgid "Sales"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:68
+msgid "Questions or queries? Get in touch!"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:80
+msgid "Phone"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:84
+msgid "Mon-Fri from 8am to 5pm."
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:88
+msgid "+1 (555) 000-0000"
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:10
+msgid "Banner"
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:22
+msgid "The "
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:22
+msgid "Ultimate Solution"
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:22
+msgid "for Your Digital Presence"
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:27
+msgid "Discover the key to unlocking unlimited growth in the competitive world of business. Our comprehensive solutions are designed to enhance performance, maximize profitability, and foster innovation."
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:33
+msgid "Lets Get Started →"
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:37
+msgid "Discover More →"
+msgstr ""
+
+#: inc/patterns/frontpage/blog.php:11
+msgid "Blog"
+msgstr ""
+
+#: inc/patterns/frontpage/blog.php:20
+msgid "KNOWLEDGE CENTER"
+msgstr ""
+
+#: inc/patterns/frontpage/blog.php:24
+msgid "Latest Article &amp; Blog"
+msgstr ""
+
+#: inc/patterns/frontpage/blog.php:45
+msgid "Continue Reading →"
+msgstr ""
+
+#: inc/patterns/frontpage/blog.php:57
+msgid "Read All Articles →"
+msgstr ""
+
+#: inc/patterns/frontpage/client-logo.php:10
+msgid "Client Logo"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:10
+msgid "Features"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:23
+msgid "CHOOSE US"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:31
+msgid "Why Make Us Your Trusted Partner"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:37
+msgid "Choose us to leverage expertise and innovation for your business&#39;s transformative journey towards success."
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:62
+msgid "Expert Guidance"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:66
+msgid "Navigate your business challenges with the help of our seasoned consultants, skilled in diverse industry verticals."
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:86
+msgid "Innovative Strategies"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:90
+msgid "Capitalise on our forward-thinking approaches designed to keep your business ahead in the ever-evolving market."
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:110
+msgid "Bespoke Solutions"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:114
+msgid "Benefit from our tailored strategies and tools, perfectly designed to meet your unique business needs."
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:138
+msgid "Enjoy the advantage of our partnership-driven ethos, focusing on your success as our primary goal."
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:10
+msgid "Services Section One"
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:21
+msgid "What We Offer"
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:25
+msgid "We examine all catalysts of transformation - starting from the basics, and well inspire and assist you in making the desired transition."
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:41
+#: inc/patterns/service/service-three-row.php:26
+msgid "Strategy Consultation"
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:45
+#: inc/patterns/service/service-three-row.php:30
+msgid "Helping firms define and implement powerful strategies to drive growth and competitive advantage."
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:57
+#: inc/patterns/service/service-three-row.php:42
+msgid "Financial Advise"
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:61
+#: inc/patterns/service/service-three-row.php:46
+msgid "Offering expert advice on investment decisions, cost savings, and financial risk management."
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:73
+#: inc/patterns/service/service-three-row.php:80
+msgid "Digital Transformation"
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:77
+#: inc/patterns/service/service-three-row.php:84
+msgid "Guiding firms to integrate technology into all areas of their business &amp; services."
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:89
+msgid "View All Services →"
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:10
+msgid "Services Section"
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:22
+msgid "ACHIEVE MORE"
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:26
+msgid "Take Your Business to Next Level"
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:41
+msgid "Strategic Planning"
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:45
+msgid "A methodical approach to setting goals, making informed decisions, and driving business growth."
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:63
+msgid "Customize Solution"
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:67
+msgid "Tailored strategies and tools, designed to perfectly address your unique business needs."
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:10
+msgid "Team Section Two"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:21
+msgid "OUR TEAM MEMBERS"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:25
+#: inc/patterns/templates/team.php:25
+msgid "Meet Our Specialized Professionals"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:42
+#: inc/patterns/team/team-section.php:28
+msgid "Samantha Roberts"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:46
+msgid "CEO and Founder"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:58
+#: inc/patterns/team/team-section.php:44
+#: inc/patterns/team/team-section.php:114
+#: inc/patterns/team/team-section.php:184
+msgid "Michael Anderson"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:74
+#: inc/patterns/team/team-section.php:60
+#: inc/patterns/team/team-section.php:130
+#: inc/patterns/team/team-section.php:200
+msgid "Emily Smith"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:78
+msgid "Business Consultant"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:90
+#: inc/patterns/team/team-section.php:76
+#: inc/patterns/team/team-section.php:146
+#: inc/patterns/team/team-section.php:216
+msgid "David Wilson"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:94
+#: inc/patterns/team/team-section.php:80
+#: inc/patterns/team/team-section.php:150
+#: inc/patterns/team/team-section.php:220
+msgid "Project Coordinator"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:107
+msgid "Meet All Members →"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:10
+msgid "Testimonial"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:29
+#: inc/patterns/service/service-testimonial.php:21
+msgid "What people are saying…"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:33
+#: inc/patterns/service/service-testimonial.php:25
+msgid "Read the testimonials of our happy customers"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:49
+#: inc/patterns/service/service-testimonial.php:41
+msgid "“Their strategic guidance proved instrumental in our business growth. Their comprehensive approach and personalized solutions significantly increased our market competitiveness.”"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:53
+#: inc/patterns/service/service-testimonial.php:45
+msgid "Jonathan Anderson"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:57
+#: inc/patterns/service/service-testimonial.php:49
+msgid "CEO, TechNovo Inc."
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:69
+#: inc/patterns/service/service-testimonial.php:61
+msgid "“The expertise of their team transformed our operational efficiency, paving the way for improved profitability and performance. A highly recommended partner for business.”"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:73
+#: inc/patterns/service/service-testimonial.php:65
+msgid "Maria Smith"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:77
+#: inc/patterns/service/service-testimonial.php:69
+msgid "COO, GreenLeaf Corp."
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:89
+#: inc/patterns/service/service-testimonial.php:81
+msgid "“They provided exceptional financial advisory services that made a crucial difference in our investment strategy. Their insights and professionalism are second to none.”"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:93
+#: inc/patterns/service/service-testimonial.php:85
+msgid "David Lee"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:97
+#: inc/patterns/service/service-testimonial.php:89
+msgid "CFO, PowerDrive Industries"
+msgstr ""
+
+#: inc/patterns/frontpage/who-are-we.php:10
+msgid "Who Are We Section"
+msgstr ""
+
+#: inc/patterns/frontpage/who-are-we.php:28
+msgid "Who We Are?"
+msgstr ""
+
+#: inc/patterns/frontpage/who-are-we.php:32
+msgid "We are a premier business consultancy firm established in 2023. Our mission is to empower businesses to thrive in an increasingly complex marketplace. We take pride in our team."
+msgstr ""
+
+#: inc/patterns/frontpage/who-are-we.php:37
+msgid "Read our full story →"
+msgstr ""
+
+#: inc/patterns/frontpage/why-choose-us.php:10
+msgid "Why Choose Us Section"
+msgstr ""
+
+#: inc/patterns/frontpage/why-choose-us.php:18
+#: inc/patterns/templates/service.php:21
+msgid "OUR SERVICES"
+msgstr ""
+
+#: inc/patterns/frontpage/why-choose-us.php:22
+msgid "Why Choose us?"
+msgstr ""
+
+#: inc/patterns/frontpage/why-choose-us.php:26
+msgid "We blend experience with innovation to provide custom-tailored business solutions and coupled with a deep understanding of industry dynamics, ensures effective strategies for your success."
+msgstr ""
+
+#: inc/patterns/frontpage/why-choose-us.php:31
+msgid "Know why we are best →"
+msgstr ""
+
+#: inc/patterns/service/service-testimonial.php:10
+msgid "Service Testimonial"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:10
+msgid "Service With Three Row"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:58
+msgid "Operational Improvement"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:62
+msgid "Enhancing efficiency and effectiveness of business operations to improve overall performance."
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:96
+msgid "Resources Planning"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:100
+msgid "Assisting in creating effective HR strategies to attract, develop, and retain top talent."
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:112
+msgid "Risk and Compliance"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:116
+msgid "Supporting firms to identify, evaluate, and manage business risks while ensuring regulatory compliance."
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:134
+msgid "Market Analysis"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:138
+msgid "Leverage our in-depth market insights to identify opportunities, and decision-making."
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:150
+msgid "Brand Strategy"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:154
+msgid "Enhance brand identity and market presence with targeted strategies and market presence."
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:166
+msgid "Experience Management"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:170
+msgid "Optimize your customer touchpoints, fostering loyalty through improved satisfaction and engagement."
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:9
+msgid "Ziri Product Sidebar"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:15
+msgid "Filter by price"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:26
+msgid "Popular Products"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:48
+msgid "Featured Product"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:55
+#: inc/patterns/sidebar/ziri-sidebar.php:62
+msgid "Journey of Ziri"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:59
+#: inc/patterns/sidebar/ziri-sidebar.php:66
+msgid "New Block Theme"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:64
+#: inc/patterns/sidebar/ziri-sidebar.php:71
+msgid "SHOP NOW"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-sidebar.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-sidebar.php:16
+msgid "About Me"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-sidebar.php:26
+msgid "Emily Parker"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-sidebar.php:30
+msgid "Fashion is a distinctive and often constant trend in the style in which a person dresses. It is the prevailing styles in behaviour."
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-sidebar.php:50
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-sidebar.php:80
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:10
+msgid "Team Details"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:18
+msgid "We are looking for the best"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:22
+msgid "We are a 100% remote team spread all accross the world. Join us!"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:35
+msgid "DESIGN"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:39
+msgid "Product Designer"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:43
+msgid "We are looking for a mid-level product designer to join our team."
+msgstr ""
+
+#: inc/patterns/team/team-details.php:55
+#: inc/patterns/team/team-details.php:109
+#: inc/patterns/team/team-details.php:163
+msgid "Remote"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:67
+#: inc/patterns/team/team-details.php:121
+#: inc/patterns/team/team-details.php:175
+msgid "Full-Time"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:77
+#: inc/patterns/team/team-details.php:131
+#: inc/patterns/team/team-details.php:185
+msgid "View Job →"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:89
+msgid "SOFTWARE DEVELOPMENT"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:93
+msgid "Engineering Manager"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:97
+#: inc/patterns/team/team-details.php:151
+msgid "We’re looking for a mid-level product designer to join our team."
+msgstr ""
+
+#: inc/patterns/team/team-details.php:143
+msgid "MARKETING"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:147
+msgid "SEO Marketing Manager"
+msgstr ""
+
+#: inc/patterns/team/team-section.php:10
+msgid "Team Section One"
+msgstr ""
+
+#: inc/patterns/team/team-section.php:32
+#: inc/patterns/team/team-section.php:102
+#: inc/patterns/team/team-section.php:172
+msgid "Lead Designer"
+msgstr ""
+
+#: inc/patterns/team/team-section.php:48
+#: inc/patterns/team/team-section.php:118
+#: inc/patterns/team/team-section.php:188
+msgid "Senior Developer"
+msgstr ""
+
+#: inc/patterns/team/team-section.php:64
+#: inc/patterns/team/team-section.php:134
+#: inc/patterns/team/team-section.php:204
+msgid "UX/UI Specialist"
+msgstr ""
+
+#: inc/patterns/templates/about.php:9
+msgid "About Page"
+msgstr ""
+
+#: inc/patterns/templates/about.php:22
+msgid "Our Philosophy: Pioneering Progress Together"
+msgstr ""
+
+#: inc/patterns/templates/about.php:28
+msgid "Our philosophy is grounded in collaboration and innovation. Since our establishment in 2015, weve dedicated ourselves to serve as catalysts for business transformation, providing bespoke solutions that uniquely address each client&nbsp;s needs. Our expert team boasts a diverse portfolio of skills, harnessed to deliver strategic planning, financial advisory, operational improvement, and more."
+msgstr ""
+
+#: inc/patterns/templates/about.php:34
+msgid "Were not just a consultancy; we see ourselves as your strategic partner, navigating the ever-evolving business landscape together. We firmly believe that your success is our success."
+msgstr ""
+
+#: inc/patterns/templates/about.php:38
+msgid "By choosing us, you&nbsp;re investing in a future of potential, backed by a team that&nbsp;s equally passionate about your business&nbsp;s journey towards success."
+msgstr ""
+
+#: inc/patterns/templates/about.php:58
+msgid "Let’s grow together"
+msgstr ""
+
+#: inc/patterns/templates/about.php:62
+msgid "Join hands with us and embark on a transformative journey to scale your business, leveraging our expertise &amp; innovation"
+msgstr ""
+
+#: inc/patterns/templates/about.php:74
+msgid "Shared Vision"
+msgstr ""
+
+#: inc/patterns/templates/about.php:78
+msgid "Align your growth with ours as we build a roadmap to success, fueled by mutual goals."
+msgstr ""
+
+#: inc/patterns/templates/about.php:86
+msgid "Strategic Partnership"
+msgstr ""
+
+#: inc/patterns/templates/about.php:90
+msgid "Leverage our strategic approach to face business challenges confidently and achieve desired outcomes"
+msgstr ""
+
+#: inc/patterns/templates/about.php:98
+msgid "Continuous Support"
+msgstr ""
+
+#: inc/patterns/templates/about.php:102
+msgid "Enjoy our unwavering support throughout your business journey, ensuring a seamless path to growth."
+msgstr ""
+
+#: inc/patterns/templates/contact.php:9
+msgid "Contact Page"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:21
+msgid "CONTACT US"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:25
+msgid "Let’s Get in Touch!"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:29
+msgid "Get in touch with us to discuss how we can help your business thrive. Whether you have a question, comment, or are seeking a consultation, our team is ready to assist."
+msgstr ""
+
+#: inc/patterns/templates/contact.php:62
+msgid "OUR LOCATIONS"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:66
+msgid "Visit our offices"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:70
+msgid "Find us at these locations."
+msgstr ""
+
+#: inc/patterns/templates/contact.php:81
+msgid "123 Main Street"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:85
+msgid "Suite 101, San Francisco, USA"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:91
+msgid "London"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:95
+msgid "22 Baker Street"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:99
+msgid "3rd Floor, London, UK"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:105
+msgid "Berlin"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:109
+msgid "55 Friedrichstraße"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:113
+msgid "Berlin, Germany"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:121
+msgid "Tokyo"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:125
+msgid "7-1 Ginza"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:129
+msgid "Chuo City, Tokyo, Japan"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:135
+msgid "New South Wales"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:139
+msgid "10 George Street"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:143
+msgid "Sydney, Australia"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:149
+msgid "Bengaluru"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:153
+msgid "888 MG Road"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:157
+msgid "Karnataka, India"
+msgstr ""
+
+#: inc/patterns/templates/home.php:10
+msgid "Home Page"
+msgstr ""
+
+#: inc/patterns/templates/service.php:9
+msgid "Service Page"
+msgstr ""
+
+#: inc/patterns/templates/service.php:25
+msgid "Our Tailored Services"
+msgstr ""
+
+#: inc/patterns/templates/service.php:29
+msgid "Experience our tailored services, designed to meet your unique business needs, drive growth, and enhance operational efficiency."
+msgstr ""
+
+#: inc/patterns/templates/single-with-feature-image.php:10
+msgid "Single Page With Feature Image"
+msgstr ""
+
+#: inc/patterns/templates/team.php:9
+msgid "Team Page"
+msgstr ""
+
+#: inc/patterns/templates/team.php:21
+msgid "OUR TEAM"
+msgstr ""
+
+#: inc/patterns/templates/team.php:29
+msgid "Meet our dynamic team of seasoned professionals, each bringing a unique blend of expertise and innovation dedicated to driving your business.."
+msgstr ""
+
+#: inc/patterns/templates/team.php:48
+msgid "Shape Your Future: Be a Part of Our Success Journey!"
+msgstr ""
+
+#: inc/patterns/templates/team.php:52
+msgid "Be a part of our dynamic team and redefine the world of business consultancy. We offer an enriching and innovative work environment, providing numerous opportunities for professional growth. Dont just build a career, make a difference. Apply today!"
+msgstr ""
+
+#: inc/patterns/templates/team.php:57
+msgid "Join Our Team →"
+msgstr ""
+
+#: build/admin.js:473
+#: src/admin/Pages/Dashboard/Introduction.jsx:9
+#: build/admin.js:220
+msgid "Welcome to Ziri"
+msgstr ""
+
+#: build/admin.js:475
+#: src/admin/Pages/Dashboard/Introduction.jsx:10
+#: build/admin.js:221
+msgid "Ziri is a core web vitals optimized Full Site Editing (FSE) WordPress theme. It is lightning-fast and gives unparalleled speed. Ziri is perfect for creating websites such as corporate, marketing agencies, startups, life coaches, spas, portfolios, law firms, etc."
+msgstr ""
+
+#: build/admin.js:480
+#: src/admin/Pages/Dashboard/Introduction.jsx:12
+#: build/admin.js:223
+msgid "Customize Your Website"
+msgstr ""
+
+#: build/admin.js:484
+#: src/admin/Pages/Dashboard/Introduction.jsx:16
+#: build/admin.js:227
+msgid "Ziri welcome image"
+msgstr ""
+
+#: build/admin.js:516
+#: build/admin.js:631
+#: build/admin.js:666
+#: src/admin/Pages/Dashboard/Upgrade.jsx:10
+#: src/admin/Pages/FreePro/index.js:10
+#: src/admin/Pages/FreePro/index.js:34
+#: build/admin.js:242
+#: build/admin.js:308
+#: build/admin.js:332
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: build/admin.js:518
+#: build/admin.js:668
+#: src/admin/Pages/Dashboard/Upgrade.jsx:11
+#: src/admin/Pages/FreePro/index.js:35
+#: build/admin.js:243
+#: build/admin.js:333
+msgid "With the Pro version, you get access to more customization, advanced add-ons, additional customization for headers, blogs and single posts along with many other advanced features."
+msgstr ""
+
+#: build/admin.js:524
+#: build/admin.js:674
+#: build/admin.js:811
+#: src/admin/Pages/Dashboard/Upgrade.jsx:14
+#: src/admin/Pages/FreePro/index.js:38
+#: src/admin/Pages/Setting/Upgrade.jsx:12
+#: build/admin.js:246
+#: build/admin.js:336
+#: build/admin.js:411
+msgid "Upgrade Now"
+msgstr ""
+
+#: build/admin.js:563
+#: build/admin.js:637
+#: src/admin/Pages/Dashboard/index.jsx:12
+#: src/admin/Pages/FreePro/index.js:15
+#: build/admin.js:265
+#: build/admin.js:313
+msgid "Documentation"
+msgstr ""
+
+#: build/admin.js:564
+#: build/admin.js:638
+#: src/admin/Pages/Dashboard/index.jsx:13
+#: src/admin/Pages/FreePro/index.js:16
+#: build/admin.js:266
+#: build/admin.js:314
+msgid "Explore our detailed and beginner-friendly documentation to set up your site step-by-step."
+msgstr ""
+
+#: build/admin.js:567
+#: build/admin.js:641
+#: src/admin/Pages/Dashboard/index.jsx:14
+#: src/admin/Pages/FreePro/index.js:17
+#: build/admin.js:267
+#: build/admin.js:315
+msgid "Explore Documentation"
+msgstr ""
+
+#: build/admin.js:569
+#: build/admin.js:643
+#: build/admin.js:729
+#: src/admin/Pages/Dashboard/index.jsx:17
+#: src/admin/Pages/FreePro/index.js:20
+#: src/admin/Pages/NavBar/NavBar.js:10
+#: build/admin.js:270
+#: build/admin.js:318
+#: build/admin.js:365
+msgid "Support"
+msgstr ""
+
+#: build/admin.js:570
+#: build/admin.js:644
+#: src/admin/Pages/Dashboard/index.jsx:18
+#: src/admin/Pages/FreePro/index.js:21
+#: build/admin.js:271
+#: build/admin.js:319
+msgid "Need any help? Reach out to our support team for quick assistance with our theme."
+msgstr ""
+
+#: build/admin.js:573
+#: build/admin.js:647
+#: src/admin/Pages/Dashboard/index.jsx:19
+#: src/admin/Pages/FreePro/index.js:22
+#: build/admin.js:272
+#: build/admin.js:320
+msgid "Contact Support Team"
+msgstr ""
+
+#: build/admin.js:632
+#: src/admin/Pages/FreePro/index.js:11
+#: build/admin.js:309
+msgid "With the Pro version, you can change the look and feel of your website in seconds. You can change color, choose from background patterns, and change the fonts with ease."
+msgstr ""
+
+#: build/admin.js:635
+#: src/admin/Pages/FreePro/index.js:12
+#: build/admin.js:310
+msgid "Learn More About Pro Version"
+msgstr ""
+
+#: build/admin.js:721
+#: src/admin/Pages/NavBar/NavBar.js:8
+#: build/admin.js:363
+msgid "Website"
+msgstr ""
+
+#: build/admin.js:725
+#: src/admin/Pages/NavBar/NavBar.js:9
+#: build/admin.js:364
+msgid "YouTube"
+msgstr ""
+
+#: build/admin.js:733
+#: src/admin/Pages/NavBar/NavBar.js:11
+#: build/admin.js:366
+msgid "Docs"
+msgstr ""
+
+#: build/admin.js:848
+#: src/admin/Pages/Setting/index.js:16
+#: build/admin.js:433
+msgid "Upgrade to premium to access all the features."
+msgstr ""
+
+#: build/admin.js:913
+#: src/admin/Pages/StarterSites/index.js:40
+#: build/admin.js:481
+msgid "Ziri is a feature-rich WordPress block theme designed to harness the full potential of the Gutenberg block editor."
+msgstr ""
+
+#: build/admin.js:917
+#: src/admin/Pages/StarterSites/index.js:41
+#: build/admin.js:482
+msgid "Note:"
+msgstr ""
+
+#: build/admin.js:917
+#: src/admin/Pages/StarterSites/index.js:41
+#: build/admin.js:482
+msgid "Upon clicking this button, the \"Demo Importer Plus\" plugin will be installed and activated from the WordPress repository."
+msgstr ""
+
+#: styles/chromatic-radiance.json
+msgctxt "Style variation name"
+msgid "Chromatic Radiance"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Color"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Color"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Text Color"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Heading Color"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Color One"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+msgctxt "Color name"
+msgid "Accent Color Two"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Box Shadow Color"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+msgctxt "Color name"
+msgid "Background Color"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Gradients"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Cta Section"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Banner Section"
+msgstr ""
+
+#: styles/chromatic-radiance.json
+#: styles/ember-blaze.json
+#: styles/flamingo-pink.json
+#: styles/green-color.json
+#: styles/regal-amethyst.json
+#: styles/rose-elegance.json
+#: styles/sapphire-sky.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary Color"
+msgstr ""
+
+#: styles/ember-blaze.json
+msgctxt "Style variation name"
+msgid "Ember Blaze"
+msgstr ""
+
+#: styles/flamingo-pink.json
+msgctxt "Style variation name"
+msgid "Flamingo Pink"
+msgstr ""
+
+#: styles/green-color.json
+msgctxt "Style variation name"
+msgid "Green Color"
+msgstr ""
+
+#: styles/regal-amethyst.json
+msgctxt "Style variation name"
+msgid "Regal Amethyst"
+msgstr ""
+
+#: styles/rose-elegance.json
+msgctxt "Style variation name"
+msgid "Opulent Rose Elegance"
+msgstr ""
+
+#: styles/sapphire-sky.json
+msgctxt "Style variation name"
+msgid "Sapphire Sky"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation one"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Ziri Product Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post with Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post with Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "About"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Services"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Contact"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Team"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Product Catalog"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Products by Category"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Color two"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "S"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "SM"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "M"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "ML"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "L"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4XL"
+msgstr ""

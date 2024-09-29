@@ -1,0 +1,93 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Regal Amethyst",
+    "settings": {
+        "color": {
+			"palette": [
+				{
+					"color": "#6e2a72",
+					"name": "Primary Color",
+					"slug": "primary"
+				},
+				{
+					"color": "#6e2a5b",
+					"name": "Secondary Color",
+					"slug": "secondary"  
+				},
+				{
+					"color": "#545454",
+					"name": "Text Color",
+					"slug": "base"
+				},
+				{
+					"color": "#292021",
+					"name": "Heading Color",
+					"slug": "heading"
+				},
+				{
+					"color": "#fbf1fb",
+					"name": "Accent Color One",
+					"slug": "primary-accent"
+				},
+				{
+					"color": "#dfc9e0",
+					"name": "Accent Color Two",
+					"slug": "accent-color-two"
+				},
+				{
+					"color": "110,42,114",
+					"name": "Box Shadow Color",
+					"slug": "box-shadow-color"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Background Color",
+					"slug": "background"
+				},
+				{
+					"color": "currentColor",
+					"name": "Current Color",
+					"slug": "currentColor"
+				},
+				{
+					"color": "inherit",
+					"name": "Inherit",
+					"slug": "inherit"
+				},
+				{
+					"color": "transparent",
+					"name": "Transparent",
+					"slug": "transparent"
+				}
+			],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(191deg, #e8e1f5 0%, #f7cacc 100%)",
+					"name": "Primary Gradients",
+					"slug": "primary-gradients"
+				},
+				{
+					"slug": "cta-section",
+					"gradient": "linear-gradient(270deg, #ef3eaa 0%, #347fc0 100%)",
+					"name": "Cta Section"
+				},
+				{
+					"slug": "banner-section",
+					"gradient": "linear-gradient(191deg, #e8e1f5 0%, #f7cacc 100%)",
+					"name": "Banner Section"
+				}
+			],
+			"duotone": [
+				{
+					"colors": [
+						"#6e2a72",
+						"#6e2a72"
+					],
+					"name": "Primary Color",
+					"slug": "primary-color-duotone"
+				}
+			]
+		}
+    }
+}
