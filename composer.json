@@ -41,6 +41,7 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentyfour": "^1.0",
+    "wpackagist-theme/blockskit-base":"1.1.2",
     "wpackagist-theme/blockskit-agency":"1.0.1"
   },
   "require-dev": {
