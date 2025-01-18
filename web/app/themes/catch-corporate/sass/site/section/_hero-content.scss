@@ -1,0 +1,89 @@
+/**
+ * 7.3.9 - Hero Content
+ */
+
+#hero-section,
+#promotion-content-section {
+    border: none;
+    text-align: center;
+}
+
+#hero-section .more-button {
+    margin-top: 0;
+}
+
+#hero-section .wrapper {
+    position: relative;
+
+    &::before {
+        position: absolute;
+        top: -20px;
+        right: 30px;
+        content: '';
+        width: 90px;
+        height: 125px;
+        background: url(assets/images/pattern.png) no-repeat;
+        background-size: 100%;
+        display: none;
+    }
+}
+.has-pattern-shape .testimonial-content-section .wrapper::before,
+.has-pattern-shape #product-highlight .wrapper::before,
+.has-pattern-shape #hero-section .wrapper::before {
+    display: block;
+}
+
+.hero-section .more-button .more-link {
+    border-bottom: none;
+
+    &::before {
+        display: none;
+    }
+}
+
+.content-align-left .entry-container {
+    margin-right: auto;
+}
+
+.modern-style .hero-content-wrapper .post-thumbnail,
+.modern-style .hero-content-wrapper .entry-container {
+    max-width: 750px;
+    width: 100%;
+}
+
+.logo-images {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 14px -7px 0;
+
+    .logo-single {
+        width: 100%;
+        margin-top: 21px;
+        padding: 0 7px;
+
+        .logo-inner {
+            padding: 42px 21px;
+            text-align: center;
+            height: 100%;
+
+            span {
+                display: block;
+                width: auto;
+                margin-top: 21px;
+                line-height: 1.5;
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+.modern-style article.hentry {
+    padding-left: 0;
+    padding-right: 0;
+
+
+}
+.content-align-left.modern-style .hero-content-wrapper .entry-container.full-width,
+.modern-style .hero-content-wrapper .content-wrap.full-width {
+    padding: 0;
+}

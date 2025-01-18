@@ -1,0 +1,251 @@
+/**
+ * 7.3.14 - Promotional Headline
+ */
+
+.promotion-section .post-thumbnail {
+    margin: 0;
+    width: 100%;
+}
+
+.post-thumbnail-background {
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: relative;
+}
+
+.promotion-section .post-thumbnail-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.promotion-section.content-align-center .entry-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.promotion-section .entry-container {
+    max-width: 600px;
+    position: relative;
+    z-index: 2;
+    padding: 42px 30px;
+}
+
+.promotion-section.content-frame .entry-container {
+    padding: 28px;
+}
+
+.promotion-section.content-frame .entry-container:before {
+    content: "";
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: -1;
+}
+
+// .promotion-section .cover-link,
+// .promotion-section .cover-link:before {
+//     position: absolute;
+//     top: 0;
+//     right: 0;
+//     bottom: 0;
+//     left: 0;
+// }
+
+.promotion-section .cover-link:before {
+    content: "";
+    height: 100%;
+    width: 100%;
+}
+
+// .section.text-align-left,
+// .section.text-align-center,
+// .section.text-align-right {
+//     text-align: center;
+// }
+
+
+
+/* Promotional Contact */
+
+.promotion-contact .section-heading-wrapper {
+    padding: 0;
+    margin: unset;
+    text-align: unset;
+}
+
+.promotion-contact .post-thumbnail-background {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    left: 0;
+    right: 0;
+}
+
+.promotion-contact .post-thumbnail-background:before {
+    content: "";
+    background-color: rgba(0, 0, 0, 0.15);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.promotion-contact .hentry {
+    position: initial;
+    margin: 0;
+}
+
+.promotion-contact .entry-container {
+    text-align: center;
+}
+
+.promotion-contact .entry-container,
+.promotional-video-section .wrapper {
+    position: relative;
+    z-index: 2;
+}
+
+/*Promotion Video*/
+.promotional-video-section.no-section-heading {
+    padding-bottom: 72px;
+    padding-top: 100px;
+}
+
+#promotional-video-section {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.custom-video-button-play {
+    border-radius: 50%;
+    line-height: 0;
+    font-size: 24px;
+    font-size: 1.5rem;
+    text-align: center;
+    height: 60px;
+    padding: 20px;
+    width: 60px;
+    z-index: 9;
+}
+
+.promotional-video-section .video-thumbnail {
+    text-align: center;
+}
+
+.promotion-section .more-link,
+.promotion-section .more-link:hover {
+    border: none;
+}
+
+button#custom-video-button {
+    border: none;
+}
+
+.promotional-video-section {
+    padding: 84px 0 56px 0;
+}
+
+.promotion-section .entry-container> :last-child {
+    margin-bottom: 0;
+}
+
+#promotion-section .wrapper {
+    max-width: 100%;
+}
+
+#promotion-section,
+#promotion-section .hentry,
+#promotion-section .section-content-wrapper {
+    padding: 0;
+    margin: 0
+}
+
+.promotion-section .rear-image img,
+.promotion-section .post-thumbnail img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.promotion-section .more-button {
+    position: relative;
+    padding-top: 35px;
+
+    &::before {
+
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 75px;
+        height: 2px;
+        content: '';
+
+    }
+
+
+}
+
+.promotion-section .more-link::before {
+    display: none;
+}
+
+.promotion-section.text-align-right .more-button::before {
+    left: auto;
+    right: 0;
+}
+
+.promotion-section.text-align-center .more-button::before {
+    left: 50%;
+    transform: translateX(-50%);
+    right: auto
+}
+
+.promotion-contact .entry-title {
+    font-weight: normal;
+}
+
+.promotion-contact .view-more {
+    margin-top: 21px;
+}
+
+.promotion-contact .section-description {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.single-layout .rear-image {
+    display: none;
+}
+
+.single-layout.promotion-section.content-align-center .entry-container {
+    margin-left: 0;
+}
+
+.promotional-video-content-wrapper button:after {
+    display: none;
+}
+
+body .flashy-overlay .flashy-close {
+    top: 35px;
+    right: 35px;
+
+}

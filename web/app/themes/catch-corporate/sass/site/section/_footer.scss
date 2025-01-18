@@ -1,0 +1,165 @@
+/**
+ * 7.3.7 - Footer
+ */
+
+.widget-column {
+    float: left;
+    position: relative;
+    width: 100%;
+    z-index: 2;
+}
+
+#colophon .widget {
+    background-color: transparent;
+}
+
+body #colophon .widget-column.above-footer {
+    width: 100%;
+}
+
+#social-footer-navigation,
+.footer-logo {
+    width: 100%;
+    text-align: center;
+}
+
+.site-info {
+    font-weight: 400;
+    line-height: 1.62;
+}
+
+.site-footer .social-links-menu a {
+    border: 1px solid;
+    margin: 0 3px;
+}
+
+.site-footer .widget-wrap .sub-menu {
+    display: none;
+}
+
+.ewnewsletter .ew-newsletter-wrap #subbutton {
+    border: none
+}
+
+.site-footer .widget {
+    margin-bottom: 0;
+}
+
+#site-footer-navigation + #social-footer-navigation {
+    margin-top: 28px;
+}
+
+.site-footer .widget article.page {
+    margin-bottom: 14px;
+}
+
+.site-footer .hentry .excerpt {
+    margin-top: 7px;
+}
+#site-generator,
+#contact-section {
+    padding: 42px 0;
+    position: relative;
+
+    &::before {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 1px;
+        width: 1400px;
+        max-width: calc(100% - 60px);
+        content: '';
+        left: 50%;
+        transform: translateX(-50%);
+        background: red;
+    }
+}
+
+#site-generator::before {
+    top: 0;
+    bottom: auto;
+
+}
+
+#site-generator {
+    padding: 35px 0;
+
+}
+.contact-section .logo-title {
+    padding-top: 14px;
+}
+
+.contact-section .logo,
+.contact-section .social-navigation {
+    padding: 0 15px
+}
+
+.newsletter form {
+    max-width: 320px;
+    position: relative;
+}
+.newsletter .tnp-field input[type="submit"] {
+    position: initial;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.contact-section .tnp-subscription {
+    margin: 0;
+}
+.contact-section nav.social-navigation,
+.contact-section .newsletter {
+    padding: 0 15px;
+    margin-top: 28px;
+}
+.contact-section .social-navigation a {
+    padding: 0;
+    margin-right: 28px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.tnp-subscription div.tnp-field {
+    margin: 0;
+}
+
+.contact-section .tnp-subscription input[type=email] {
+    padding-right: 100px;
+    padding-left: 14px;
+}
+.newsletter .tnp-field-button {
+    position: absolute;
+    width: auto;
+    right: 0;
+    top: 0;
+}
+.site-footer .widget .widget-title, 
+.site-footer .widget .wp-block-group h2 {
+    font-weight: normal;
+}
+
+.contact-section .social-links-menu span {
+    padding-left: 14px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.contact-section .social-navigation li{
+    margin: 14px 0;
+}
+.site-footer-menu,
+.site-info,
+#site-generator .wrapper {
+    padding: 0 15px;
+}
+
+.site-footer-menu +
+.site-info {
+    text-align: left;
+}
+
+.site-info {
+    text-align: center;
+}
+.site-footer-menu {
+    margin-bottom: 15px;
+}
