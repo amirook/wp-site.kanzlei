@@ -35,3 +35,8 @@ a {
 	text-decoration-thickness: .0625em !important;
 	text-underline-offset: .15em;
 }
+
+.wp-block-post-featured-image {
+	max-height: 560px !important;
+	overflow: hidden;
+}
