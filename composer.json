@@ -28,6 +28,30 @@
       "type": "composer",
       "url": "https://wpackagist.org",
       "only": ["wpackagist-plugin/*", "wpackagist-theme/*"]
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "amirook-plugin/wp-sync-db",
+        "type": "wordpress-plugin",
+        "version": "1.6.1",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/amirook/wp-sync-db/archive/refs/tags/1.6.1.zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "amirook-plugin/wp-sync-db-media-files",
+        "type": "wordpress-plugin",
+        "version": "1.1.5",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/amirook/wp-sync-db-media-files/archive/refs/tags/1.1.5.zip"
+        }
+      }
     }
   ],
   "require": {
@@ -41,7 +65,11 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentyfour": "^1.0",
-    "wpackagist-theme/dawson":"1.0.4"
+    "wpackagist-theme/dawson":"1.0.4",
+    "wpackagist-plugin/worker":"4.9.20",
+    "wpackagist-plugin/host-webfonts-local": "5.5.3",
+    "amirook-plugin/wp-sync-db": "1.6.1",
+    "amirook-plugin/wp-sync-db-media-files": "1.1.5"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",

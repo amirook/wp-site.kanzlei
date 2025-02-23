@@ -4,8 +4,26 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f4eeb73a518fa13e9b4a51c3ec51bb6f",
+    "content-hash": "51e635463ab0e7e92dc1a14ea6af987c",
     "packages": [
+        {
+            "name": "amirook-plugin/wp-sync-db",
+            "version": "1.6.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/amirook/wp-sync-db/archive/refs/tags/1.6.1.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "amirook-plugin/wp-sync-db-media-files",
+            "version": "1.1.5",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/amirook/wp-sync-db-media-files/archive/refs/tags/1.1.5.zip"
+            },
+            "type": "wordpress-plugin"
+        },
         {
             "name": "composer/installers",
             "version": "v2.3.0",
@@ -1109,6 +1127,42 @@
                 }
             ],
             "time": "2024-07-20T21:52:34+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/host-webfonts-local",
+            "version": "5.5.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/host-webfonts-local/",
+                "reference": "tags/5.5.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/host-webfonts-local.5.5.3.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/host-webfonts-local/"
+        },
+        {
+            "name": "wpackagist-plugin/worker",
+            "version": "4.9.20",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/worker/",
+                "reference": "tags/4.9.20"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/worker.4.9.20.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/worker/"
         },
         {
             "name": "wpackagist-theme/dawson",
