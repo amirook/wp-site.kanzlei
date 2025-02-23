@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "51e635463ab0e7e92dc1a14ea6af987c",
+    "content-hash": "38abb0b5dd542c23e45b7d8fe95e1180",
     "packages": [
         {
             "name": "amirook-plugin/wp-sync-db",
@@ -1130,15 +1130,15 @@
         },
         {
             "name": "wpackagist-plugin/host-webfonts-local",
-            "version": "5.5.3",
+            "version": "5.9.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/host-webfonts-local/",
-                "reference": "tags/5.5.3"
+                "reference": "tags/5.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/host-webfonts-local.5.5.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/host-webfonts-local.5.9.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
