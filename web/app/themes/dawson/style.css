@@ -40,3 +40,7 @@ a {
 	max-height: 800px !important;
 	overflow: hidden;
 }
+
+.wp-block-navigation .wp-block-navigation-item {
+	line-height: 36px;
+}
