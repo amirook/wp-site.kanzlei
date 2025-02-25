@@ -66,10 +66,7 @@
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentyfour": "^1.0",
     "wpackagist-theme/dawson":"1.0.4",
-    "wpackagist-plugin/worker":"4.9.20",
-    "wpackagist-plugin/host-webfonts-local": "5.9.2",
-    "amirook-plugin/wp-sync-db": "1.6.1",
-    "amirook-plugin/wp-sync-db-media-files": "1.1.5"
+    "wpackagist-plugin/worker":"4.9.20"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",

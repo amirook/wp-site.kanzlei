@@ -4,26 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "38abb0b5dd542c23e45b7d8fe95e1180",
+    "content-hash": "1c357a56e89db19374760ab3f4ec9f31",
     "packages": [
-        {
-            "name": "amirook-plugin/wp-sync-db",
-            "version": "1.6.1",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/amirook/wp-sync-db/archive/refs/tags/1.6.1.zip"
-            },
-            "type": "wordpress-plugin"
-        },
-        {
-            "name": "amirook-plugin/wp-sync-db-media-files",
-            "version": "1.1.5",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/amirook/wp-sync-db-media-files/archive/refs/tags/1.1.5.zip"
-            },
-            "type": "wordpress-plugin"
-        },
         {
             "name": "composer/installers",
             "version": "v2.3.0",
@@ -1129,24 +1111,6 @@
             "time": "2024-07-20T21:52:34+00:00"
         },
         {
-            "name": "wpackagist-plugin/host-webfonts-local",
-            "version": "5.9.2",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/host-webfonts-local/",
-                "reference": "tags/5.9.2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/host-webfonts-local.5.9.2.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/host-webfonts-local/"
-        },
-        {
             "name": "wpackagist-plugin/worker",
             "version": "4.9.20",
             "source": {
@@ -1208,12 +1172,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "23b2141a1db97b4e3278510ed9e74a16361619b1"
+                "reference": "cebd36660068b236b35789228f183f296bcccaee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/23b2141a1db97b4e3278510ed9e74a16361619b1",
-                "reference": "23b2141a1db97b4e3278510ed9e74a16361619b1",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/cebd36660068b236b35789228f183f296bcccaee",
+                "reference": "cebd36660068b236b35789228f183f296bcccaee",
                 "shasum": ""
             },
             "conflict": {
@@ -1604,7 +1568,7 @@
                 "mojo42/jirafeau": "<4.4",
                 "mongodb/mongodb": ">=1,<1.9.2",
                 "monolog/monolog": ">=1.8,<1.12",
-                "moodle/moodle": "<4.3.8|>=4.4,<4.4.4",
+                "moodle/moodle": "<4.3.10|>=4.4,<4.4.6|>=4.5.0.0-beta,<4.5.2",
                 "mos/cimage": "<0.7.19",
                 "movim/moxl": ">=0.8,<=0.10",
                 "movingbytes/social-network": "<=1.2.1",
@@ -2076,7 +2040,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-02-21T23:05:15+00:00"
+            "time": "2025-02-24T22:04:57+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
